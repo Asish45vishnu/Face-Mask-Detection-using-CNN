@@ -1,4 +1,4 @@
-# Face Mask Detection with CNN Model
+# Face Mask Detection with CNN 
 This project implements a Convolutional Neural Network (CNN) model for face mask detection. It utilizes the Haar Cascade classifier for face detection from live webcam feed, and then applies the trained CNN model to classify whether a person is wearing a face mask or not.
 
 OUTPUT:
